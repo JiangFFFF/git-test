@@ -5,6 +5,7 @@ package com.jiang.git;
  * @create 2021-10-10-2:07 下午
  */
 public class GitTest {
+
     public static void main(String[] args) {
         System.out.println("hello git");
         System.out.println("hello git2");
@@ -16,7 +17,8 @@ public class GitTest {
         System.out.println("hot-fix test!");
         System.out.println("push test!");
         System.out.println("pull test!");
-        
+        System.out.println("gitee test!");
+
 
     }
 }
